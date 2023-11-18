@@ -1,9 +1,9 @@
 ---
-Bug: The numbers can't increase.
-Game Name: Gamma-Studio.
-Reason: Used glitch instead of github to display the thing.
-Reporter's Name: Nicole Daniela Taveras de Caceres.
-File's Owner: Fenix Nicolas Elim de Caceres.
+name: The numbers can't increase.
+about: Gamma-Studio.
+title: Used glitch instead of github to display the thing.
+label: Nicole Daniela Taveras de Caceres.
+assignees: Fenix Nicolas Elim de Caceres/gamma.
 
 ---
 
